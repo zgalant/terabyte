@@ -2,9 +2,8 @@
 			    <div class="contact-footer">
                     <table>
                         <tr>
-                            <td>Contact: Zach Galant</td>
-                            <td><a href="mailto:zach@terabytegames.com">zach@terabytegames.com</a></td>
-                            <td>214.957.3273</td>
+                            <td>Contact: Jake Galant</td>
+                            <td><a href="mailto:jake@terabytegames.com">jake@terabytegames.com</a></td>
                         </tr>
                     </table>
                 </div>
