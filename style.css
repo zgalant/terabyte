@@ -19,7 +19,7 @@ img {
 }
 
 #main {
-    background: url('/images/homepageBackground.png');
+    background: url('images/homepageBackground.png');
     width:850px;
     height:685px;
     margin: auto;
