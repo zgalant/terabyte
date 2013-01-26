@@ -1,0 +1,72 @@
+body {
+	background: url('images/bg.png') repeat;
+	text-align: center;
+	line-height: 0;
+	padding: 0px 0 0 0;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+}
+
+img {
+	border-style: none;
+}
+
+#main {
+    background: url('/images/homepageBackground.png');
+    width:850px;
+    height:685px;
+    margin: auto;
+}
+
+#years {
+    padding-left: 450px;
+    padding-top: 230px;
+    text-align: left;
+    font:bold 60px "Tahoma", sans-serif;
+    text-transform:uppercase;
+    color:red;
+}
+
+#links {
+    padding-left: 450px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+.homepage-link {
+    font:bold 45px "Tahoma", sans-serif;
+    text-transform:uppercase;
+    margin-bottom:10px;
+}
+
+#bottom-links {
+    clear:both;
+    width:400px;
+    padding-left:450px;
+}
+.bottom-link {
+	font:bold 24px "Tahoma", sans-serif;
+    float:left;
+    margin-right:20px;
+}
+
+
+
+.twitter {
+    position:fixed;
+    x:0;
+}
+
+#text-email {
+    position: relative;
+    left: -242px;
+    top: 517px;
+    font-size: 12px;
+}
