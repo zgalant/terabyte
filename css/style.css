@@ -1,0 +1,62 @@
+body {
+  /*padding-top: 20px;*/
+  /*padding-bottom: 40px;*/
+  background: #0088cc;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+  background: white;
+  padding: 20px 50px;
+}
+.container-narrow > hr {
+  /*margin: 30px 0;*/
+}
+
+.masthead {
+  font-family: "Futura";
+}
+.masthead h3 {
+  line-height: 34px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  padding: 60px 0;
+  text-align: center;
+  color: #fff;
+  background-image: url("../img/silly.png");
+}
+.jumbotron .lead {
+  margin: 50px 0px 0px 0px;
+  background: rgba(0,0,0,.4);
+  padding: 10px;
+}
+.jumbotron .lead a {
+  color: white;
+}
+.jumbotron h1 {
+  font-size: 66px;
+  line-height: 1;
+  text-shadow: rgba(0,0,0,.4) 1px 1px 3px;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 30px 0;
+}
+.marketing h4 {
+  color: rgb(0, 105, 158);
+  font-family: "Futura";
+  font-size: 17px;
+  line-height: 26px;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
