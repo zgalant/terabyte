@@ -34,6 +34,9 @@ body {
 .jumbotron.faq {
   background-image: url("../img/silly2.png");
 }
+.jumbotron.testimonials {
+  background-image: url("../img/thumbs_up.png");
+}
 .jumbotron.courses {
   background-image: url("../img/iphone.png");
   padding: 77px 0;
