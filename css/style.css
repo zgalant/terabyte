@@ -74,3 +74,15 @@ body {
 .marketing p + h4 {
   margin-top: 28px;
 }
+
+.about img {
+  height: 150px;
+  width: auto;
+  border-radius:70px;
+}
+
+.about h5 {
+  font-size: 16px;
+  color: #999;
+  font-weight: normal;
+}
