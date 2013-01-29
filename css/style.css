@@ -27,7 +27,21 @@ body {
   padding: 60px 0;
   text-align: center;
   color: #fff;
+}
+.jumbotron.index {
   background-image: url("../img/silly.png");
+}
+.jumbotron.faq {
+  background-image: url("../img/silly2.png");
+}
+.jumbotron.courses {
+  background-image: url("../img/iphone.png");
+  padding: 77px 0;
+}
+.jumbotron.courses h1 {
+  margin-left: 330px;
+  color: #0088cc;
+  text-shadow: none;
 }
 .jumbotron .lead {
   margin: 50px 0px 0px 0px;
