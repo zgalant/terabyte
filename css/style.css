@@ -38,11 +38,10 @@ body {
   background-image: url("../img/thumbs_up.png");
 }
 .jumbotron.courses {
-  background-image: url("../img/iphone.png");
+  background-image: url("../img/mbair.png");
   padding: 77px 0;
 }
 .jumbotron.courses h1 {
-  margin-left: 330px;
   color: #0088cc;
   text-shadow: none;
 }
@@ -88,4 +87,10 @@ body {
   font-size: 16px;
   color: #999;
   font-weight: normal;
+}
+
+.footer {
+  margin-top:15px;
+  padding-top:20px;
+  border-top:1px solid #ccc;
 }
