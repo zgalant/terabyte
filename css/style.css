@@ -77,6 +77,16 @@ body {
   margin-top: 28px;
 }
 
+.boy-scouts {
+  text-align: center;
+}
+.boy-scouts h5 {
+  color: rgb(0, 105, 158);
+  font-family: "Futura";
+  font-size: 14px;
+  line-height: 21px;
+}
+
 .about img {
   height: 150px;
   width: auto;
