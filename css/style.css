@@ -93,6 +93,12 @@ body {
   border-radius:70px;
 }
 
+.zach img {
+  height: 90px;
+  width: auto;
+  border-radius:50px;
+}
+
 .about h5 {
   font-size: 16px;
   color: #999;
